@@ -138,7 +138,7 @@ function App() {
               <div>
                 <div class="mt-2 text-gray-700 text-right text-xs">
                   <a href="https://herotofu.com" class="hover:underline" target="_blank">
-                    KYT HELMET
+Garena Freefire
                   </a>
                 </div>
               </div>
