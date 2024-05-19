@@ -8,7 +8,6 @@ const Pet = lazy(() => import("./Pet"));
 const Maps = lazy(() => import("./Maps"));
 const Weapon = lazy(() => import("./Weapon"));
 const Suport = lazy(() => import("./Suport"));
-const Berita = lazy(() => import("./Berita"));
 const App = () => (
   <div>
     <Navbar />
@@ -21,7 +20,6 @@ const App = () => (
           <Route path="/Maps" element={<Maps />} />
           <Route path="/Weapon" element={<Weapon />} />
           <Route path="/Suport" element={<Suport />} />
-          <Route path="/Berita" element={<Berita />} />
         </Routes>
       </Suspense>
     </Router>

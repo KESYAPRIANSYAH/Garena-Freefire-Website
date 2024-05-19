@@ -40,8 +40,7 @@ function Weapon() {
             class="carousel-control-prev absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline left-0"
             type="button"
             data-bs-target="#carouselExampleIndicators"
-            data-bs-slide="prev"
-          >
+            data-bs-slide="prev">
             <span class="carousel-control-prev-icon inline-block bg-no-repeat" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
           </button>
@@ -49,8 +48,7 @@ function Weapon() {
             class="carousel-control-next absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline right-0"
             type="button"
             data-bs-target="#carouselExampleIndicators"
-            data-bs-slide="next"
-          >
+            data-bs-slide="next">
             <span class="carousel-control-next-icon inline-block bg-no-repeat" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
           </button>
@@ -273,83 +271,7 @@ function Weapon() {
               </div>
             </div>
           </div>
-          <div class=" my-10 mb-3:">
-            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-              <img src="http://dl.dir.freefiremobile.com/common/web_event/officialwebsite/weapon/PARAFAL_normal.png" alt="card1" />
 
-              <div class="p-5">
-                <div>
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 md:hover:text-amber-300 dark:text-white">PARAFAL</h5>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class=" my-10 mb-3:">
-            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-              <img src="https://freefiremobile-a.akamaihd.net/common/web_event/official/AUG_Render4.png" alt="card1" />
-
-              <div class="p-5">
-                <div>
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 md:hover:text-amber-300 dark:text-white">AUG</h5>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class=" my-10 mb-3:">
-            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-              <img src="https://freefiremobile-a.akamaihd.net/common/web_event/official/PW_BM82B_Render.png" alt="card1" />
-
-              <div class="p-5">
-                <div>
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 md:hover:text-amber-300 dark:text-white">M28B</h5>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class=" my-10 mb-3:">
-            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-              <img src="https://freefiremobile-a.akamaihd.net/common/web_event/official/PW_Superheat_Gun_Render.png" alt="card1" />
-
-              <div class="p-5">
-                <div>
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 md:hover:text-amber-300 dark:text-white">PLASMA</h5>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class=" my-10 mb-3:">
-            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-              <img src="https://freefiremobile-a.akamaihd.net/common/web_event/official/SW_Hand_Cannon_Render.png" alt="card1" />
-
-              <div class="p-5">
-                <div>
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 md:hover:text-amber-300 dark:text-white">HAND-CANNON</h5>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class=" my-10 mb-3:">
-            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-              <img src="https://freefiremobile-a.akamaihd.net/common/web_event/official/PW_Thompson_Render.png" alt="card1" />
-
-              <div class="p-5">
-                <div>
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 md:hover:text-amber-300 dark:text-white">THOMPSON</h5>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class=" my-10 mb-3:">
-            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-              <img src="https://freefiremobile-a.akamaihd.net/common/web_event/official/M1887.png" alt="card1" />
-
-              <div class="p-5">
-                <div>
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 md:hover:text-amber-300 dark:text-white">M1887</h5>
-                </div>
-              </div>
-            </div>
-          </div>
           <div class=" my-10 mb-3:">
             <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
               <img src="https://freefiremobile-a.akamaihd.net/common/web_event/official/db09d59a2322Parang.png" alt="card1" />

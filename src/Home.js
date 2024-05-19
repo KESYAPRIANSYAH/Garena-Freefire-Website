@@ -72,16 +72,15 @@ function Home() {
           </div>
           <div class="carousel-inner relative w-full overflow-hidden">
             <div class="carousel-item active float-left w-full">
-              <img src="img/slide1.png" class="block w-full" alt="first" />
-              <div class="carousel-caption hidden xl:block absolute  text-left right-7s mb-20 ml-80">
+              <img src="img/1ff.png" class="block w-full" alt="first" />
+              <div class="carousel-caption hidden xl:block absolute  text-left right-7s mb-40 ml-80">
                 <h5 class="text-3xl text-amber-500 font-bold right-7 mb-3  ml-80">FREE FIRE TALES: THE FIRST BATTLE</h5>
                 <h6 class="right-7s  mb-5 ml-80">The first Free Fire universe animated short will be released soon. Get ready to explore Hayato's story and unlock exciting rewards!.</h6>
                 <div class="text-left pt-2 pb-20">
                   <a
                     href="https://firedisplay.sea.freefiremobile.com/?lang=en"
                     target="_blank"
-                    class=" ml-80 inline-flex items-center py-4 px-20 text-sm font-medium text-center text-white bg-amber-500 rounded-lg md:hover:text-amber-300 focus:ring-4 focus:outline-none focus:ring-blue-300= dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-                  >
+                    class=" ml-80 inline-flex items-center py-4 px-20 text-sm font-medium text-center text-white bg-amber-500 rounded-lg md:hover:text-amber-300 focus:ring-4 focus:outline-none focus:ring-blue-300= dark:bg-amber-500">
                     GO TO
                     <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                       <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
@@ -92,16 +91,13 @@ function Home() {
             </div>
             <div class="carousel-item float-left w-full">
               <img src="img/2ff.png" class="block w-full" alt="dua" />
-              <div class="carousel-caption hidden xl:block absolute  text-left right-7s mb-20 ml-80">
+              <div class="carousel-caption hidden xl:block absolute  text-left right-7s mb-40 ml-80">
                 <h5 class="text-3xl text-amber-500 font-bold right-7 mb-5 ml-80">NEW UPDATE IS COMING!</h5>
                 <h6 class="right-7s  mb-5 ml-80">
                   In the upcoming patch, experience free characters in the LINK system, a better gaming environment, and exciting in-game missions. What's more? Enjoy a smaller game file size (~400MB) this time
                 </h6>
                 <div class="text-left pt-2 pb-20">
-                  <a
-                    href="#"
-                    class=" ml-80 inline-flex items-center py-4 px-20 text-sm font-medium text-center text-white bg-amber-500 rounded-lg md:hover:text-amber-300 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-                  >
+                  <a href="#" class=" ml-80 inline-flex items-center py-4 px-20 text-sm font-medium text-center text-white bg-amber-500 rounded-lg md:hover:text-amber-300 focus:ring-4 focus:outline-none dark:bg-amber-500">
                     GO TO
                     <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                       <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
@@ -112,14 +108,11 @@ function Home() {
             </div>
             <div class="carousel-item float-left w-full">
               <img src="img/3ff.png" class="block w-full" alt="tiga" />
-              <div class="carousel-caption hidden xl:block absolute  text-left right-7s mb-20 ml-80">
+              <div class="carousel-caption hidden xl:block absolute  text-left right-7s mb-40 ml-80">
                 <h5 class="text-3xl text-amber-500 font-bold right-7 mb-5 ml-80">FREE FIRE'S SPECIAL SPRING EVENT</h5>
                 <h6 class="right-7s  mb-5 ml-80">EVENTExciting new updates arriving soon. Check out the April's Special Spring event and unlock endless fun.</h6>
                 <div class="text-left pt-2 pb-20">
-                  <a
-                    href="#"
-                    class=" ml-80 inline-flex items-center py-4 px-20 text-sm font-medium text-center text-white bg-amber-500 rounded-lg md:hover:text-amber-300 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-                  >
+                  <a href="#" class=" ml-80 inline-flex items-center py-4 px-20 text-sm font-medium text-center text-white bg-amber-500 rounded-lg md:hover:text-amber-300 focus:ring-4 focus:outline-none dark:bg-amber-500">
                     GO TO
                     <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                       <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
@@ -133,8 +126,7 @@ function Home() {
             class="carousel-control-prev absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline left-0"
             type="button"
             data-bs-target="#carouselExampleIndicators"
-            data-bs-slide="prev"
-          >
+            data-bs-slide="prev">
             <span class="carousel-control-prev-icon inline-block bg-no-repeat" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
           </button>
@@ -142,8 +134,7 @@ function Home() {
             class="carousel-control-next absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline right-0"
             type="button"
             data-bs-target="#carouselExampleIndicators"
-            data-bs-slide="next"
-          >
+            data-bs-slide="next">
             <span class="carousel-control-next-icon inline-block bg-no-repeat" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
           </button>
@@ -152,65 +143,6 @@ function Home() {
 
       {/* <akhir slider!> */}
 
-      {/* <Card!> */}
-      <div class="pt-8">
-        <h1 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center sm:text-4xl">LATEST NEWS</h1>
-        <div class=" md:grid grid-cols-3 px-10 gird-cols-1  ">
-          <div class="my-10 mb-3">
-            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800  dark:border-gray-700">
-              <a href="#">
-                <img class="rounded-t-lg" src="img/card1.jpg" alt="card3" />
-              </a>
-              <div class="p-5">
-                <a href="#">
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 md:hover:text-amber-300 dark:text-white">CATATAN PATCH: MENYALA</h5>
-                </a>
-                <p class="mb-3 font-normal text-gray-700 md:hover:text-amber-300 dark:text-gray-400">Catatan Patch: Menerangi.</p>
-              </div>
-            </div>
-          </div>
-          <div class=" my-10 mb-3:">
-            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-              <a href="#">
-                <img class="rounded-t-lg" src="img/ffcard1.png" alt="card1" />
-              </a>
-              <div class="p-5">
-                <a href="#">
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 md:hover:text-amber-300 dark:text-white">PATCH NOTE: HEROES ARISE</h5>
-                </a>
-                <p class="mb-3 font-normal text-gray-700 md:hover:text-amber-300 dark:text-gray-400">PATCH NOTE: HEROES ARISE</p>
-              </div>
-            </div>
-          </div>
-          <div class="my-10 mb-3">
-            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-              <a href="#">
-                <img class="rounded-t-lg" src="img/ffcard2.png" alt="card2" />
-              </a>
-              <div class="p-5">
-                <a href="#">
-                  <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 md:hover:text-amber-300 dark:text-white">NIKMATI LEAP OF FAITH </h5>
-                </a>
-                <p class="mb-3 font-normal text-gray-700 md:hover:text-amber-300 dark:text-gray-400">Crossover Free Fire dengan Assassin's.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      {/* <akhir card!> */}
-      {/* <button */}
-      <div class="text-center pt-2 pb-20">
-        <a
-          href="#"
-          class="inline-flex items-center py-4 px-20 text-sm font-medium text-center text-white bg-amber-500 rounded-lg md:hover:text-amber-300 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-        >
-          Read more
-          <svg class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-            <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
-          </svg>
-        </a>
-      </div>
-      {/* akhir button */}
       {/* iframe */}
       <div class=" relative">
         <div class="md:Jumbtron pt-60 pb-60 text-center bg-cover bg-center bg-[url('alok.png')] ">
@@ -223,8 +155,7 @@ function Home() {
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
+              allowfullscreen></iframe>
           </div>
           <div class="static ">
             <iframe
@@ -235,8 +166,7 @@ function Home() {
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
+              allowfullscreen></iframe>
           </div>
         </div>
       </div>
